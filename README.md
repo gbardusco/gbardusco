@@ -13,4 +13,4 @@ Currently, I work as a **Teaching Assistant at FATEC Registro**, bridging the ga
 I thrive in environments that value **Clean Code**, **Code Reviews**, and seamless **Front/Back-end integration**.
 
 ---
-📫 **Let's connect!** [https://](https://www.linkedin.com/in/gbardusco/) 
+📫 **Let's connect!** [My LinkedIn profile is here](https://www.linkedin.com/in/gbardusco/) 
