@@ -29,7 +29,7 @@
     🎓 &nbsp;<b>IT Teacher</b> at Senac São Paulo — bridging academic concepts and the tech industry<br/>
     🖥️ &nbsp;<b>Full-Stack Developer</b> in PHP, JavaScript and Python<br/>
     🎵 &nbsp;Co-founder of <a href="https://zerocharts.com.br"><b>ZeroCharts</b></a> — 9,700+ users and growing<br/>
-    📚 &nbsp;<b>EdTech</b> &amp; <b>Moodle</b> specialist, preparing research for a Master's degree<br/>
+    📚 &nbsp;<b>EdTech</b> &amp; <b>Moodle</b> specialist<br/>
     📍 &nbsp;Registro - São Paulo, Brasil
   </p>
 </div>
