@@ -93,28 +93,18 @@
 <br/>
 <hr/>
 
-<h3 align="center">📊 Stats &amp; Activity</h3>
+<h3 align="center">📊 Stats</h3>
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=gbardusco&layout=compact&border_radius=10&bg_color=1c1c1e&title_color=E53935&text_color=d0d0d0&border_color=3a3a3c">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=gbardusco&layout=compact&border_radius=10&bg_color=f4f4f5&title_color=B71C1C&text_color=2b2b2e&border_color=d4d4d8">
-    <img height="180px" width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gbardusco&layout=compact&border_radius=10&bg_color=1c1c1e&title_color=E53935&text_color=d0d0d0&border_color=3a3a3c">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=gbardusco&layout=compact&border_radius=10&bg_color=1c1c1e&title_color=E53935&text_color=d0d0d0&border_color=3a3a3c">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=gbardusco&layout=compact&border_radius=10&bg_color=f4f4f5&title_color=B71C1C&text_color=2b2b2e&border_color=d4d4d8">
+    <img height="180px" width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=gbardusco&layout=compact&border_radius=10&bg_color=1c1c1e&title_color=E53935&text_color=d0d0d0&border_color=3a3a3c">
   </picture>
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=gbardusco&border_radius=10&ring=E53935&fire=E53935&background=1c1c1e&border=3a3a3c&stroke=3a3a3c&currStreakNum=ffffff&sideNums=d0d0d0&currStreakLabel=E53935&sideLabels=8a8a8c&dates=8a8a8c">
     <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com/?user=gbardusco&border_radius=10&ring=E53935&fire=E53935&background=f4f4f5&border=d4d4d8&stroke=d4d4d8&currStreakNum=2b2b2e&sideNums=2b2b2e&currStreakLabel=B71C1C&sideLabels=6b6b70&dates=6b6b70">
     <img height="180px" width="49%" src="https://streak-stats.demolab.com/?user=gbardusco&border_radius=10&ring=E53935&fire=E53935&background=1c1c1e&border=3a3a3c&stroke=3a3a3c&currStreakNum=ffffff&sideNums=d0d0d0&currStreakLabel=E53935&sideLabels=8a8a8c&dates=8a8a8c">
-  </picture>
-</div>
-
-<br/>
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=gbardusco&area=true&radius=10&bg_color=1c1c1e&color=E53935&line=B71C1C&point=E53935&border_color=3a3a3c">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=gbardusco&area=true&radius=10&bg_color=f4f4f5&color=B71C1C&line=E53935&point=B71C1C&border_color=d4d4d8">
-    <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=gbardusco&area=true&radius=10&bg_color=1c1c1e&color=E53935&line=B71C1C&point=E53935&border_color=3a3a3c">
   </picture>
 </div>
 
