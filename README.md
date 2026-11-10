@@ -1,5 +1,5 @@
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:1c1c1e,50:B71C1C,100:1c1c1e&reversal=false&section=header&fontColor=d0d0d0&fontSize=52&fontAlignY=45&text=Gustavo%20Bardusco">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=slice&height=220&color=0:B71C1C,50:E53935,100:1c1c1e&reversal=false&section=header&fontColor=d0d0d0&fontSize=52&fontAlignY=45&text=Gustavo%20Bardusco">
 </div>
 
 <br/>
@@ -130,5 +130,5 @@
 <br/>
 
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=140&color=0:1c1c1e,50:B71C1C,100:1c1c1e&reversal=true&section=footer">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=60&color=0:1c1c1e,50:B71C1C,100:1c1c1e&section=footer">
 </div>
