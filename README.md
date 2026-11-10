@@ -1,5 +1,5 @@
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=slice&height=220&color=0:B71C1C,50:E53935,100:1c1c1e&reversal=false&section=header&fontColor=d0d0d0&fontSize=52&fontAlignY=45&text=Gustavo%20Bardusco">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=200&color=0:B71C1C,50:E53935,100:B71C1C&section=header&fontColor=ffffff&fontSize=52&fontAlignY=50&text=Gustavo%20Bardusco">
 </div>
 
 <br/>
@@ -11,11 +11,11 @@
 <br/>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=gbardusco&style=for-the-badge&color=E53935&labelColor=3a3a3c&label=PROFILE+VIEWS">
+  <img src="https://komarev.com/ghpvc/?username=gbardusco&style=for-the-badge&color=E53935&labelColor=6b6b70&label=PROFILE+VIEWS">
   &nbsp;
   <img src="https://img.shields.io/badge/Role-Full--Stack%20Developer-E53935?style=for-the-badge">
   &nbsp;
-  <img src="https://img.shields.io/badge/Also-IT%20Teacher%20%40%20Senac-3a3a3c?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Also-IT%20Teacher%20%40%20Senac-6b6b70?style=for-the-badge">
 </div>
 
 <br/>
@@ -58,35 +58,35 @@
 
 **Languages**
 
-<img src="https://img.shields.io/badge/PHP-3a3a3c?style=for-the-badge&logo=php&logoColor=white">
+<img src="https://img.shields.io/badge/PHP-6b6b70?style=for-the-badge&logo=php&logoColor=white">
 <img src="https://img.shields.io/badge/JavaScript-E53935?style=for-the-badge&logo=javascript&logoColor=white">
-<img src="https://img.shields.io/badge/TypeScript-3a3a3c?style=for-the-badge&logo=typescript&logoColor=white">
+<img src="https://img.shields.io/badge/TypeScript-6b6b70?style=for-the-badge&logo=typescript&logoColor=white">
 <img src="https://img.shields.io/badge/Python-E53935?style=for-the-badge&logo=python&logoColor=white">
 
 <br/><br/>
 
 **Frameworks &amp; Libraries**
 
-<img src="https://img.shields.io/badge/Laravel-3a3a3c?style=for-the-badge&logo=laravel&logoColor=white">
+<img src="https://img.shields.io/badge/Laravel-6b6b70?style=for-the-badge&logo=laravel&logoColor=white">
 <img src="https://img.shields.io/badge/React-E53935?style=for-the-badge&logo=react&logoColor=white">
-<img src="https://img.shields.io/badge/Vue.js-3a3a3c?style=for-the-badge&logo=vuedotjs&logoColor=white">
+<img src="https://img.shields.io/badge/Vue.js-6b6b70?style=for-the-badge&logo=vuedotjs&logoColor=white">
 <img src="https://img.shields.io/badge/Vite-E53935?style=for-the-badge&logo=vite&logoColor=white">
 
 <br/><br/>
 
 **Databases**
 
-<img src="https://img.shields.io/badge/PostgreSQL-3a3a3c?style=for-the-badge&logo=postgresql&logoColor=white">
+<img src="https://img.shields.io/badge/PostgreSQL-6b6b70?style=for-the-badge&logo=postgresql&logoColor=white">
 
 <br/><br/>
 
 **DevOps &amp; Tools**
 
-<img src="https://img.shields.io/badge/Docker-3a3a3c?style=for-the-badge&logo=docker&logoColor=white">
+<img src="https://img.shields.io/badge/Docker-6b6b70?style=for-the-badge&logo=docker&logoColor=white">
 <img src="https://img.shields.io/badge/Nginx-E53935?style=for-the-badge&logo=nginx&logoColor=white">
-<img src="https://img.shields.io/badge/Git-3a3a3c?style=for-the-badge&logo=git&logoColor=white">
+<img src="https://img.shields.io/badge/Git-6b6b70?style=for-the-badge&logo=git&logoColor=white">
 <img src="https://img.shields.io/badge/Linux-E53935?style=for-the-badge&logo=linux&logoColor=white">
-<img src="https://img.shields.io/badge/Moodle-3a3a3c?style=for-the-badge&logo=moodle&logoColor=white">
+<img src="https://img.shields.io/badge/Moodle-6b6b70?style=for-the-badge&logo=moodle&logoColor=white">
 
 </div>
 
@@ -96,14 +96,26 @@
 <h3 align="center">📊 Stats &amp; Activity</h3>
 
 <div align="center">
-  <img height="180px" width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gbardusco&layout=compact&bg_color=1c1c1e&title_color=E53935&text_color=d0d0d0&border_color=3a3a3c&border_radius=10">
-  <img height="180px" width="49%" src="https://streak-stats.demolab.com/?user=gbardusco&background=1c1c1e&border=3a3a3c&stroke=3a3a3c&ring=E53935&fire=E53935&currStreakNum=ffffff&sideNums=d0d0d0&currStreakLabel=E53935&sideLabels=8a8a8c&dates=8a8a8c&border_radius=10">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=gbardusco&layout=compact&border_radius=10&bg_color=1c1c1e&title_color=E53935&text_color=d0d0d0&border_color=3a3a3c">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=gbardusco&layout=compact&border_radius=10&bg_color=f4f4f5&title_color=B71C1C&text_color=2b2b2e&border_color=d4d4d8">
+    <img height="180px" width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gbardusco&layout=compact&border_radius=10&bg_color=1c1c1e&title_color=E53935&text_color=d0d0d0&border_color=3a3a3c">
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=gbardusco&border_radius=10&ring=E53935&fire=E53935&background=1c1c1e&border=3a3a3c&stroke=3a3a3c&currStreakNum=ffffff&sideNums=d0d0d0&currStreakLabel=E53935&sideLabels=8a8a8c&dates=8a8a8c">
+    <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com/?user=gbardusco&border_radius=10&ring=E53935&fire=E53935&background=f4f4f5&border=d4d4d8&stroke=d4d4d8&currStreakNum=2b2b2e&sideNums=2b2b2e&currStreakLabel=B71C1C&sideLabels=6b6b70&dates=6b6b70">
+    <img height="180px" width="49%" src="https://streak-stats.demolab.com/?user=gbardusco&border_radius=10&ring=E53935&fire=E53935&background=1c1c1e&border=3a3a3c&stroke=3a3a3c&currStreakNum=ffffff&sideNums=d0d0d0&currStreakLabel=E53935&sideLabels=8a8a8c&dates=8a8a8c">
+  </picture>
 </div>
 
 <br/>
 
 <div align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=gbardusco&bg_color=1c1c1e&color=E53935&line=B71C1C&point=E53935&area=true&border_color=3a3a3c&radius=10">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=gbardusco&area=true&radius=10&bg_color=1c1c1e&color=E53935&line=B71C1C&point=E53935&border_color=3a3a3c">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=gbardusco&area=true&radius=10&bg_color=f4f4f5&color=B71C1C&line=E53935&point=B71C1C&border_color=d4d4d8">
+    <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=gbardusco&area=true&radius=10&bg_color=1c1c1e&color=E53935&line=B71C1C&point=E53935&border_color=3a3a3c">
+  </picture>
 </div>
 
 <br/>
@@ -117,7 +129,7 @@
   </a>
   &nbsp;
   <a href="https://zerocharts.com.br" target="_blank">
-    <img src="https://img.shields.io/badge/ZeroCharts-3a3a3c?style=for-the-badge&logo=lastdotfm&logoColor=white">
+    <img src="https://img.shields.io/badge/ZeroCharts-6b6b70?style=for-the-badge&logo=lastdotfm&logoColor=white">
   </a>
 </div>
 
@@ -130,5 +142,5 @@
 <br/>
 
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=60&color=0:1c1c1e,50:B71C1C,100:1c1c1e&section=footer">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=40&color=0:B71C1C,50:E53935,100:B71C1C&section=footer">
 </div>
